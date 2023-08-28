@@ -2,5 +2,15 @@
   "type": "module",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "projetoindividual4",
+  "version": "1.0.0",
+  "main": "arquivo.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node ./arquivo.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
 }
